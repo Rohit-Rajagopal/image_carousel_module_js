@@ -1,3 +1,5 @@
+import "./carousel.css";
+
 function createCarousel(container, navDots=false, timer=0) {
     const frame = container.querySelector(".image-frame")
     const carousel = frame.querySelector(".images");
