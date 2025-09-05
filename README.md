@@ -13,7 +13,7 @@ npm i @craze98101/image-carousel
 - Import the initialization function.
 
 ```js
-import { carouselInit } from "@craze98101/image-carousel
+import { carouselInit } from "@craze98101/image-carousel"
 ```
 - Call the function at the bottom of your js file.
 
