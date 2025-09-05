@@ -1,0 +1,28 @@
+{
+  "name": "@craze98101/image-carousel",
+  "version": "1.0.0",
+  "description": "A reusable image carousel module",
+  "main": "carousel.js",
+  "type": "module",
+  "style": "carousel.css",
+  "files": [
+    "carousel.js",
+    "carousel.css"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohit-Rajagopal/image_carousel_module_js.git"
+  },
+  "keywords": [
+    "image-carousel"
+  ],
+  "author": "craze98101",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohit-Rajagopal/image_carousel_module_js/issues"
+  },
+  "homepage": "https://github.com/Rohit-Rajagopal/image_carousel_module_js#readme"
+}

@@ -1,0 +1,46 @@
+.image-carousel {
+    width: 500px;
+    height: 500px;
+    margin: 0;
+}
+
+.image-frame {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    margin: 0;
+    overflow: hidden;
+}
+
+.images {
+    position: absolute;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-auto-flow: column;
+    grid-auto-columns: 100%;
+    height: 100%;
+}
+
+.images img {
+    height: 100%;
+    width: 100%;
+}
+
+.nav-div {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: min-content;
+    justify-content: center;
+    gap: 5px
+}
+
+.nav-button {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: aqua;
+}
+
+.nav-button.active {
+    background-color: blue;
+}
