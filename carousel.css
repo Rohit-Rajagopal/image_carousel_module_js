@@ -1,6 +1,6 @@
 .image-carousel {
     width: 500px;
-    height: 500px;
+    height: fit-content;
     margin: 0;
 }
 
